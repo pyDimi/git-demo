@@ -2,8 +2,6 @@
 
 this is the first file in this repo.
 
-## Ipsum Below
+## website content
 
-lorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapama
-lorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapama
-lorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapamalorem25 parapapama
+1. index.html
